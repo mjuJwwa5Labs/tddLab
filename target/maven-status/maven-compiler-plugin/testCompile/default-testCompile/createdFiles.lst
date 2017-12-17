@@ -1,0 +1,13 @@
+pl\sda\testexamples\Film\AssertJExamplesTest.class
+pl\sda\testexamples\Calculator\CalculatorParametrizedJParamsTest.class
+pl\sda\testexamples\Calculator\CalculatorParametrizedByFieldsTest.class
+pl\sda\testexamples\Calculator\TokenizerTest.class
+pl\sda\testexamples\Computer\ComputerTestWithSpy.class
+pl\sda\testexamples\Calculator\TokenizerAssertJTest.class
+pl\sda\testexamples\Computer\ComputerTest.class
+pl\sda\testexamples\Mathematician\MathematicianTest.class
+pl\sda\testexamples\Calculator\CalculatorManuallyParametrizedTest.class
+pl\sda\testexamples\Calculator\CalculatorTest.class
+pl\sda\testexamples\Calculator\CalculatorDivideDoubleTest.class
+pl\sda\testexamples\Calculator\CalculatorParametrizedByConstructorTest.class
+pl\sda\testexamples\Calculator\CalculatorTestParametrizedCsv.class
